@@ -1,7 +1,5 @@
-print("Bienvenidos al juego de Piedra, Papel o Tijera")
+judador_1 = "piedra"
+jugador_2 = "pidra"
 
-jugador_1 = input("Qué opción quieres elegir:")
-jugador_2 = input ("Qué opción quieres elegir:")
-
-print ("El jugador uno a elegido:",jugador_1)
-print ("El jugador dos a elegido:",jugador_2)
+print("El jugador uno selecciono",judador_1)
+print("El jugador dos selecciono",jugador_2)
