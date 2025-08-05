@@ -4,6 +4,6 @@ añoActual = 2025
 nacimiento = añoActual - edad
 
 print("El año de nacimiento es:",nacimiento)
-print(type,(nacimiento))
+print(type(nacimiento))
 
 
